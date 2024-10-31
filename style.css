@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.header{
+    background-color: #4Caf51;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+.content{
+    background-color: #f0f0f0;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #4Caf51;
+}
+
+.footer{
+    background-color: #333;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+ /* extra css apply */
+/* .header, .content, .footer{
+    outline: 1px solid #ccc;
+}
+h1{
+    font-size: 2em;
+}
+p{
+    font-size: 1em;
+} */
+/* Done */
